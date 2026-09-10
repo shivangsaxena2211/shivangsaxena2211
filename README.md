@@ -8,6 +8,11 @@ I enjoy turning ideas into working products — from **AI agents and computer vi
 
 I'm currently exploring the intersection of **Artificial Intelligence, scalable software, DevOps/MLOps, and decentralized technologies**.
 
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
+
 ---
 
 ## 🐍 Contribution Graph
