@@ -10,6 +10,16 @@ I'm currently exploring the intersection of **Artificial Intelligence, scalable 
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+---
+
 ## 🧠 What I'm Building
 
 ```text
@@ -166,15 +176,6 @@ A functional racing wheel built using **cardboard, Arduino, Python, and a little
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsaxena2211&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🎯 Currently Exploring
 
