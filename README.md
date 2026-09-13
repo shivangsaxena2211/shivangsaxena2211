@@ -174,14 +174,6 @@ A functional racing wheel built using **cardboard, Arduino, Python, and a little
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivangsaxena2211&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsaxena2211&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
 
 ## 🎯 Currently Exploring
@@ -200,6 +192,8 @@ A functional racing wheel built using **cardboard, Arduino, Python, and a little
 ## 🌐 Let's Connect
 
 <p align="left">
+  
+*Email - shivangsaxena524@gmail.com
 
 <a href="https://shivangsaxena.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
